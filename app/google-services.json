@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "501372243221",
+    "firebase_url": "https://autocred-dde34.firebaseio.com",
+    "project_id": "autocred-dde34",
+    "storage_bucket": "autocred-dde34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501372243221:android:c862263c26c2429c",
+        "android_client_info": {
+          "package_name": "com.example.mmudasirkhan.autocred"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "501372243221-so4ejht6ldrjknltassdp19n8ctu2kuc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mmudasirkhan.autocred",
+            "certificate_hash": "68ff79dfbe162065ad746507926ac0a03016c1b5"
+          }
+        },
+        {
+          "client_id": "501372243221-8g8vkqqrn5sqcpfassvudrklcmure149.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSDUTlm3coo19j2vgJoKtmpMmbBl9Dim8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "501372243221-8g8vkqqrn5sqcpfassvudrklcmure149.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
